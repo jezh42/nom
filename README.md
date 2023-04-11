@@ -6,5 +6,3 @@ type "npm". It's just a joke command, and not useful at all, except to make you
 hungry.
 
 Inspired by popular package *sl* by Toyoda Masashi
-
-Jez Hamann (jhamann42@gmail.com)
