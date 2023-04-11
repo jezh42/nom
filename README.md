@@ -7,4 +7,4 @@ hungry.
 
 Inspired by popular package *sl* by Toyoda Masashi
 
-Jeremy Hamann (jhamann42@gmail.com)
+Jez Hamann (jhamann42@gmail.com)
